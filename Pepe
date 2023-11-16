@@ -1,0 +1,8 @@
+class TablaHash 
+{
+    int clave, valor;
+    void Nodo();
+    int nhash();
+    void insertar();
+    
+}
